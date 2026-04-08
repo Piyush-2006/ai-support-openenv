@@ -1,0 +1,13 @@
+version = 1
+
+[[package]]
+name = "openai"
+
+[[package]]
+name = "fastapi"
+
+[[package]]
+name = "uvicorn"
+
+[[package]]
+name = "openenv-core"
